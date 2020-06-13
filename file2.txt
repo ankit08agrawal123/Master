@@ -12,3 +12,8 @@ added a  branch
 
 
 Trying to cretae new branch
+added a new branch 
+in file
+
+
+mergerd the changes
