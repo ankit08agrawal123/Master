@@ -2,3 +2,6 @@ hello
 php
 chiken
 pizza
+bean
+mozrella
+final copy
